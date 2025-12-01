@@ -35,9 +35,9 @@ Obstacle: finding an API that allowed searching poems by "mood" was difficult. I
 I plan to add CoreData or SwiftData persistence so the "My Gallery" list is saved even after the app closes. I also want to add a "Share" feature to post cards to social media, and an AI-Powered algorithim that allows a better selection process so users can see artwork/poems that matches pieces they've liked in the past.
 
 # Images
-<img width="720" height="1080" alt="Simulator Screenshot - iPhone 17 Pro - 2025-12-01 at 16 40 26" src="https://github.com/user-attachments/assets/1177078f-386c-46bd-a718-a0a84ff2a8a6" />
-<img width="720" height="1080" alt="Simulator Screenshot - iPhone 17 Pro - 2025-12-01 at 16 41 02" src="https://github.com/user-attachments/assets/4817744e-cb8b-4d9f-a718-c06531b6eb2d" />
-<img width="720" height="1080" alt="Simulator Screenshot - iPhone 17 Pro - 2025-12-01 at 16 41 29" src="https://github.com/user-attachments/assets/6cd574a6-86ea-434d-b825-e0f98c3c8f2c" />
-<img width="720" height="1080" alt="Simulator Screenshot - iPhone 17 Pro - 2025-12-01 at 16 41 46" src="https://github.com/user-attachments/assets/33805150-44a8-4db6-b0d2-3d64664e89aa" />
-<img width="720" height="1080" alt="Simulator Screenshot - iPhone 17 Pro - 2025-12-01 at 16 42 07" src="https://github.com/user-attachments/assets/44575f5e-1f98-43fe-8250-f58182eb8972" />
+<img src="https://github.com/user-attachments/assets/1177078f-386c-46bd-a718-a0a84ff2a8a6" width="300" />
+<img src="https://github.com/user-attachments/assets/4817744e-cb8b-4d9f-a718-c06531b6eb2d" width="300" />
+<img src="https://github.com/user-attachments/assets/6cd574a6-86ea-434d-b825-e0f98c3c8f2c" width="300" />
+<img src="https://github.com/user-attachments/assets/33805150-44a8-4db6-b0d2-3d64664e89aa" width="300" />
+<img src="https://github.com/user-attachments/assets/44575f5e-1f98-43fe-8250-f58182eb8972" width="300" />
 
