@@ -36,26 +36,26 @@ I plan to add CoreData or SwiftData persistence so the "My Gallery" list is save
 
 # Images
 
-<h3> </h3>Opening Spash-Screen </>
+<h4> Opening Spash-Screen </>
 <img src="https://github.com/user-attachments/assets/1177078f-386c-46bd-a718-a0a84ff2a8a6" width="300" />
 
-<h3>User is prompted to enter their name</h3>
+<h4>User is prompted to enter their name</h3>
 <img src="https://github.com/user-attachments/assets/adfa05fe-c5c2-4797-bbda-f4ff26a9d269" width="300"/>
 
-<h3>Homescreen; here, they can choose from a drop down what they're feeling</h3>
+<h4>Homescreen; here, they can choose from a drop down what they're feeling</h3>
 <img src="https://github.com/user-attachments/assets/bf7edcd4-fa56-4c17-a809-3d4e4e6e69ce" width="300"/>
 <img src="https://github.com/user-attachments/assets/51cbda1f-88fd-4f73-8ef5-b29f90450a28" width="300"/>
 
-<h3>Example of a poem:</h3>
+<h4>Example of a poem:</h3>
 <img src="https://github.com/user-attachments/assets/893741f6-d5ef-43e7-bf66-b247d39a3214" width="300"/>
 
-<h3>Example of an art piece"</h3>
+<h4>Example of an art piece:</h3>
 <img src="https://github.com/user-attachments/assets/965f57b6-0fa7-481a-b392-fbb61f3d3ac8" width="300"/>
 
-<h3>User's gallery view; if they swiped right, these selections would appear here. They can swipe left on one of them if they wanted to delete:</h3>
+<h4>User's gallery view; if they swiped right, these selections would appear here. They can swipe left on one of them if they wanted to delete:</h3>
 <img src="https://github.com/user-attachments/assets/198eaee3-8485-4b87-8136-dd43a1e982aa" width="300"/>
 
-<h3>If they click on one of their saved pieces, it allows them to see a short description about it:</h3>
+<h4>If they click on one of their saved pieces, it allows them to see a short description about it:</h3>
 <img src="https://github.com/user-attachments/assets/11b9df91-6d76-476b-85da-bda264b9b93c" width="300"/>
 <img src="https://github.com/user-attachments/assets/f0d4d250-74ac-46e4-86ac-717873f8b1fc" width="300"/>
 
