@@ -86,7 +86,6 @@ class MuseService {
         return response.data.filter { $0.image_id != nil }
     }
 
-    // Change: accept a String (searchTerm) instead of Mood enum
     static func fetchPoems(searchTerm: String) async throws -> [Poem] {
         // using poetry database
         guard let url = URL(string: "https://poetrydb.org/lines/\(searchTerm)") else {
