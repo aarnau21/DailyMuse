@@ -37,6 +37,7 @@ I plan to add CoreData or SwiftData persistence so the "My Gallery" list is save
 # Images
 
 <h4> Opening Spash-Screen </>
+  
 <img src="https://github.com/user-attachments/assets/1177078f-386c-46bd-a718-a0a84ff2a8a6" width="300" />
 
 <h4>User is prompted to enter their name</h3>
